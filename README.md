@@ -8,4 +8,4 @@ My first repository.
 
 [Fast and Furious](https://static.wikia.nocookie.net/fastandfurious/images/0/04/The_Fast_and_the_Furious_%28DVD_Cover%29.jpeg/revision/latest?cb=20150501043627)
 
-![Fast and Furious](<img width="2048" height="1382" alt="image" src="https://github.com/user-attachments/assets/fee34a54-6655-49d3-9ef4-d62eebda6228" />)
+![Fast and Furious](https://www.usmagazine.com/wp-content/uploads/1428049615_mcdsaha_ec188_h_the-fast-the-furious-zoom.jpg?quality=40&strip=all)
